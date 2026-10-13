@@ -69,3 +69,11 @@ python cli.py
 - Use the other menu options in the same way.
 - Sense HAT LED display output and `hat_ui.py` only work when the project is run on a Raspberry Pi.
 - Run `pytest -v` to test the validator functions.
+
+  ## Team
+
+- Emre Aykut Sevindik
+- Aleyna Kaya
+- Chakri Ajit Kusampudi
+- Kajal Thakur
+
