@@ -1,0 +1,4 @@
+field;rule;value
+email;allowed_domain;gmail.com
+phone;starts_with;+49
+phone;min_length;10
